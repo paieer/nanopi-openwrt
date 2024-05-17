@@ -39,7 +39,6 @@ merge_package https://github.com/xiaorouji/openwrt-passwall-packages openwrt-pas
 merge_package "-b main https://github.com/xiaorouji/openwrt-passwall" openwrt-passwall
 merge_package https://github.com/jerrykuku/lua-maxminddb lua-maxminddb
 merge_package https://github.com/kongfl888/luci-app-adguardhome luci-app-adguardhome
-merge_package https://github.com/openwrt/luci/tree/master/applications/luci-app-samba4 luci-app-samba4
 drop_package luci-app-cd8021x
 drop_package luci-app-cifs
 drop_package verysync
